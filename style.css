@@ -1,0 +1,27 @@
+body{
+    background-color:#f2f2f2;
+    text-align: center;  
+  }
+  #card{
+    background-color: white;
+    width: 700px;
+    height:500px;
+    margin-left:25%;
+    margin-bottom: 2%;
+  }
+  
+  .pic{
+    width:700px;
+    height:325px;
+  }
+  
+  .txt{
+    color: #666666;
+    text-align: left;
+    margin-left:5%;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
